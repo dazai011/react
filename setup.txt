@@ -1,0 +1,5 @@
+#  use node.js cmd to create project
+#  npm install -g create react app 
+#  npm create react-app projectname
+#  cd projectname (to enter the project)
+#  npm start to start project
